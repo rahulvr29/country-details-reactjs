@@ -1,10 +1,11 @@
 .country-info {
-    padding: 0 20rem;
+    padding: 0 35%;
 }
 h1 {
+    text-align: start;
     font-size: 1.1rem;
     font-weight: 300;
-    color: var(--white);
+    color: white;
     margin-bottom: 1rem;
 }
 
@@ -22,7 +23,7 @@ img {
         text-align: center;
         font-size: 1.1rem;
         font-weight: 300;
-        color: var(--white);
+        color: white;
         margin-bottom: 1rem;
     }
     

@@ -10,7 +10,7 @@
 label {
     font-size: 1.5rem;
     font-weight: 300;
-    color: var(--white);
+    color: white;
 }
 
 select {
@@ -33,12 +33,7 @@ option {
         flex-direction: column;
     }
     label{
-        text-align: start;
+        text-align: center;
         font-size: 1rem;
     }
-    select{
-        width: auto;
-    }
-
-    
 }
