@@ -1,0 +1,34 @@
+.country-info {
+    padding: 0 20rem;
+}
+h1 {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: var(--white);
+    margin-bottom: 1rem;
+}
+
+img {
+    max-height: 13rem;
+    margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .country-info {
+        padding: 0 4rem;
+    }
+    h1 {
+        text-align: center;
+        font-size: 1.1rem;
+        font-weight: 300;
+        color: var(--white);
+        margin-bottom: 1rem;
+    }
+    
+    img {
+        max-height: 10rem;
+        margin-bottom: 1rem;
+    }
+    
+}
