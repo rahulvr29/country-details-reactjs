@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live Links
 
-GitHub-[click here]()
+GitHub-[click here](https://github.com/rahulvr29/country-details-reactjs.git)
 
-Live URL-[click here]()
+Live URL-[click here](https://country-details-reactjs.vercel.app/)
 
 ## Available Scripts
 
